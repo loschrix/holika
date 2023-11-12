@@ -1,0 +1,697 @@
+{
+    "cosmetics": [
+        {
+            "name": "Krem z ceramidami",
+            "id_type": [
+                1
+            ],
+            "img": "images/products/good-cera-krem.png",
+            "price": 119.00,
+            "date": "2020-09-20",
+            "shortDescription": "Good cera Krem nawilżający z ceramidami 60ml",
+            "description": "Stworzony specjalnie z myślą o intensywnym nawilżeniu i odżywieniu podczas zimnych pór roku. To właśnie krem nawilżający z ceramidami Holika Holika Good Cera, który skutecznie nawilża i odżywia suchą, wrażliwą i podrażnioną skórę. Przywróci Twojej skórze również elastyczność i delikatność, zabezpieczając ją barierą ochronną. Dzięki ceramidom w składzie eliminuje również podrażnienia i zaczerwienienia, które często występują w zimnych miesiącach roku. Z Holika Holika Good Cera będziesz i Ty móc cieszyć się zdrową i chronioną cerą.",
+            "ingredients": "WATER, BUTYLENE GLYCOL, GLYCERIN, CYCLOPENTASILOXANE, BUTYLENE GLYCOL DICAPRYLATE/DICAPRATE, ETHYLHEXYL ISONONANOATE, HYDROGENATED POLYISOBUTENE, GLYCERYL STEARATE, 1,2-HEXANEDIOL, CETEARYL ALCOHOL, STEARIC ACID, POLYSORBATE 60, POLYGLYCERYL-3 METHYLGLUCOSE DISTEARATE, PENTAERYTHRITYL TETRAETHYLHEXANOATE, STEARYL BEHENATE, DIMETHICONE, DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER, CETEARYL GLUCOSIDE, PHYTOSTERYL/ISOSTEARYL/CETYL/STEARYL/BEHENYL DIMER DILINOLEATE, CERAMIDE NP, HYDROGENATED POLYDECENE, BUTYROSPERMUM PARKII (SHEA) BUTTER, CETEARETH-20, GLYCERYL CITRATE/LACTATE/LINOLEATE/OLEATE, HYDROXYPROPYL BISPALMITAMIDE MEA, GLYCOSPHINGOLIPIDS, CERAMIDE AP, MEADOWFOAM ESTOLIDE, GLYCINE SOJA (SOYBEAN) STEROLS, CAPRYLIC/CAPRIC TRIGLYCERIDE, CERAMIDE EOP, GLYCERYL POLYMETHACRYLATE, ALEURITIC ACID, YEAST EXTRACT, GLYCOPROTEINS, BETAINE, SODIUM HYALURONATE, POLYQUATERNIUM-51, COCOS NUCIFERA OIL(COCONUT OIL), ALOE BARBADENSIS LEAF EXTRACT, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, SQUALANE, CARBOMER, TROMETHAMINE, TOCOPHERYL ACETATE, GLYCERYLAMIDOETHYL METHACRYLATE/STEARYL METHACRYLATE COPOLYMER, ALTEROMONAS FERMENT EXTRACT, BACILLUS FERMENT, PROPYLENE GLYCOL, THEOBROMA CACAO (COCOA) SEED EXTRACT, DIPROPYLENE GLYCOL, LAVANDULA ANGUSTIFOLIA (LAVENDER) OIL, CITRUS GRANDIS (GRAPEFRUIT) PEEL OIL, CYMBOPOGON CITRATUS LEAF OIL, PELARGONIUM GRAVEOLENS OIL, CITRUS AURANTIUM DULCIS (ORANGE) PEEL OIL, POGOSTEMON CABLIN OIL, SANTALUM ALBUM (SANDALWOOD) OIL, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER OIL, NIACINAMIDE, ALLANTOIN, DISODIUM EDTA, ETHYLHEXYLGLYCERIN",
+            "quantity": 38
+        },
+        {
+            "name": "Emulsja z ceramidami",
+            "id_type": [
+                1
+            ],
+            "img": "images/products/good-cera-emulsja.png",
+            "price": 92.00,
+            "date": "2021-05-14",
+            "shortDescription": "Good Cera emulsja nawilżająco-kojąca z ceramidami 130ml",
+            "description": "Zapewnij swojej skórze normalizację równowagi wodno-tłuszczowej, która utrzymuje Twoją skórę w zdrowym stanie. Emulsja nawilżająco-kojąca z ceramidami Holika Holika Good Cera przywraca skórze jej ochronną warstwę, uelastycznia ją i łagodzi. Skóra jest miękka, głęboko odżywiona, dzięki czemu możesz cieszyć się również z uczucia komfortu.",
+            "ingredients": "WATER, CYCLOPENTASILOXANE, HYDROGENATED POLYISOBUTENE, BETAINE, GLYCERIN, BUTYLENE GLYCOL, NEOPENTYL GLYCOL DICAPRATE, 1,2-HEXANEDIOL, C14-22 ALCOHOLS, CETEARYL ALCOHOL, DIMETHICONE, HYDROGENATED LECITHIN, AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER, BATYL ALCOHOL, C12-20 ALKYL GLUCOSIDE, STEARIC ACID, CAPRYLIC/CAPRIC TRIGLYCERIDE, CAMELLIA OLEIFERA SEED OIL, LECITHIN, XANTHAN GUM, DIPROPYLENE GLYCOL, SODIUM HYALURONATE, NIACINAMIDE, LAVANDULA ANGUSTIFOLIA (LAVENDER) OIL, PROPYLENE GLYCOL, CITRUS AURANTIUM DULCIS (ORANGE) PEEL OIL, CITRUS GRANDIS (GRAPEFRUIT) PEEL OIL, CYMBOPOGON CITRATUS LEAF OIL, PELARGONIUM GRAVEOLENS OIL, CERAMIDE NP, THEOBROMA CACAO (COCOA) SEED EXTRACT, SANTALUM ALBUM (SANDALWOOD) OIL, ALTEROMONAS FERMENT EXTRACT, GLYCERYLAMIDOETHYL METHACRYLATE/STEARYL METHACRYLATE COPOLYMER, POLYQUATERNIUM-51, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER OIL, POGOSTEMON CABLIN OIL, BACILLUS FERMENT, CERAMIDE AP, CERAMIDE EOP, ALEURITIC ACID, GLYCERYL POLYMETHACRYLATE, GLYCOPROTEINS, YEAST EXTRACT, GLYCERYL STEARATE, PHYTOSTERYL/ISOSTEARYL/CETYL/STEARYL/BEHENYL DIMER DILINOLEATE, ETHYLHEXYL ISONONANOATE, HYDROXYPROPYL BISPALMITAMIDE MEA, GLYCOSPHINGOLIPIDS, MEADOWFOAM ESTOLIDE, GLYCINE SOJA (SOYBEAN) STEROLS, CETEARYL GLUCOSIDE, HYDROGENATED POLYDECENE, ETHYLHEXYLGLYCERIN, TOCOPHERYL ACETATE",
+            "quantity": 21
+        },
+        {
+            "name": "Balsam z ceramidami",
+            "id_type": [
+                1
+            ],
+            "img": "images/products/good-cera-balsam.png",
+            "price": 99.00,
+            "date": "2018-01-28",
+            "shortDescription": "Good Cera balsam nawilżający z ceramidami 40ml",
+            "description": "Czy masz problematyczne obszary na skórze, które pilnie potrzebują ratunku przed wpływem warunków atmosferycznych? Bez względu na to, czy Twoje usta są popękane, masz suche łokcie lub pięty, balsam Holika Holika Good Cera przyniesie Ci ulgę. Skutecznie odżywia, przywraca skórze równowagę i neutralizuje nieprzyjemne uczucie podrażnienia. Jego uniwersalny skład dodatkowo został zaprojektowany dla wszystkich rodzaj skóry. ",
+            "ingredients": "GLYCERIN, WATER, CETEARYL ALCOHOL, OLEA EUROPAEA (OLIVE) FRUIT OIL, 1,2-HEXANEDIOL, MACADAMIA INTEGRIFOLIA SEED OIL, CETEARYL GLUCOSIDE, GLYCERYL STEARATE, STEARIC ACID, PHYTOSTERYL/ISOSTEARYL/CETYL/STEARYL/BEHENYL DIMER DILINOLEATE, CERAMIDE NP, HYDROGENATED POLYDECENE, BUTYROSPERMUM PARKII (SHEA) BUTTER, CETEARETH-20, GLYCERYL CITRATE/LACTATE/LINOLEATE/OLEATE, BUTYLENE GLYCOL, HYDROXYPROPYL BISPALMITAMIDE MEA, GLYCOSPHINGOLIPIDS, CERAMIDE AP, MEADOWFOAM ESTOLIDE, GLYCINE SOJA (SOYBEAN) STEROLS, ETHYLHEXYL ISONONANOATE, HYDROGENATED LECITHIN, CAPRYLIC/CAPRIC TRIGLYCERIDE, CERAMIDE EOP, ALTEROMONAS FERMENT EXTRACT, BACILLUS FERMENT, GLYCERYLAMIDOETHYL METHACRYLATE/STEARYL METHACRYLATE COPOLYMER, DIPROPYLENE GLYCOL, LAVANDULA ANGUSTIFOLIA (LAVENDER) OIL, CITRUS GRANDIS (GRAPEFRUIT) PEEL OIL, CYMBOPOGON CITRATUS LEAF OIL, PELARGONIUM GRAVEOLENS OIL, CITRUS AURANTIUM DULCIS (ORANGE) PEEL OIL, POGOSTEMON CABLIN OIL, SANTALUM ALBUM (SANDALWOOD) OIL, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER OIL, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, SQUALANE, POLYSORBATE 60, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, TROMETHAMINE, ALLANTOIN, DISODIUM EDTA, PROPYLENE GLYCOL, ETHYLHEXYLGLYCERIN",
+            "quantity": 68
+        },
+        {
+            "name": "Krem do twarzy i ciała z ceramidami",
+            "id_type": [
+                1
+            ],
+            "img": "images/products/good-cera-krem-cialo.png",
+            "price": 119.00,
+            "date": "2022-05-25",
+            "shortDescription": "Good Cera krem nawilżający do twarzy i ciała z ceramidami 200ml",
+            "description": "Świetnie się sprawdzi dla skóry wrażliwej lub podrażnionej, dzięki swej hipoalergicznej formule. To krem Holika Holika Good Cera powstałby eliminować łuszczenie się skóry, podrażnienia i uczucie ściągnięcia skóry. Formuła zawiera ceramidy, które pomagają przywrócić skórze właściwości ochronne i eliminować wpływy środowiska zewnętrznego w zależności od pory roku. Również wygładza drobne zmarszczki, dzięki czemu skóra staje się wygładzona, miękka i jedwabiście gładka.",
+            "ingredients": "WATER, GLYCERIN, CAPRYLIC/CAPRIC TRIGLYCERIDE, BUTYROSPERMUM PARKII (SHEA) BUTTER, HYDROGENATED POLY (C6-14 OLEFIN), 1,2-HEXANEDIOL, HYDROGENATED POLYDECENE, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, SQUALANE, BETAINE, DIMETHICONE, METHYLPROPANEDIOL, POLYSORBATE 60, BUTYLENE GLYCOL, ALGAE EXTRACT, ECLIPTA PROSTRATA LEAF EXTRACT, BETA VULGARIS (BEET) ROOT EXTRACT, ROSA HYBRID FLOWER EXTRACT, AVENA SATIVA (OAT) KERNEL EXTRACT, CYNARA SCOLYMUS (ARTICHOKE) LEAF EXTRACT, PTERIS MULTIFIDA EXTRACT, AMARANTHUS CAUDATUS SEED EXTRACT, ULMUS DAVIDIANA ROOT EXTRACT, DIPROPYLENE GLYCOL, HYDROXYPROPYL STARCH PHOSPHATE, BETA-GLUCAN, POLYQUATERNIUM-51, HYDROGENATED LECITHIN, BACILLUS FERMENT, FRUCTOOLIGOSACCHARIDES, HYDROLYZED CORN STARCH, LECITHIN, LAVANDULA ANGUSTIFOLIA (LAVENDER) OIL, CETEARYL ALCOHOL, CITRUS AURANTIUM DULCIS (ORANGE) PEEL OIL, CITRUS GRANDIS (GRAPEFRUIT) PEEL OIL, CYMBOPOGON CITRATUS LEAF OIL, GLYCERYL STEARATE, HYDROLYZED HYALURONIC ACID, PELARGONIUM GRAVEOLENS OIL, STEARIC ACID, ALTEROMONAS FERMENT FILTRATE, ETHYLHEXYL ISONONANOATE, PANTHENOL, POGOSTEMON CABLIN OIL, SANTALUM ALBUM (SANDALWOOD) OIL, PHYTOSTERYL/ISOSTEARYL/CETYL/STEARYL/BEHENYL DIMER DILINOLEATE, ANTHEMIS NOBILIS FLOWER OIL, GLYCINE SOJA (SOYBEAN) STEROLS, HYDROXYPROPYL BISPALMITAMIDE MEA, RAFFINOSE, MEADOWFOAM ESTOLIDE, CETEARYL GLUCOSIDE, FOLIC ACID, CHOLESTEROL, GLYCOSPHINGOLIPIDS, CETEARETH-20, GLYCERYL CITRATE/LACTATE/LINOLEATE/OLEATE, TROMETH-AMINE, CERAMIDE AP, CERAMIDE EOP, PALMITOYL PENTAPEPTIDE-4, CERAMIDE NP",
+            "quantity": 52
+        },
+        {
+            "name": "Krem do rąk Berry Berry",
+            "id_type": [
+                10,
+                9
+            ],
+            "img": "images/products/au-krem-berry-berry.png",
+            "price": 29.90,
+            "date": "2022-12-17",
+            "shortDescription": "Krem do rąk Berry Berry - Among Us 30ml",
+            "description": "Krem do rąk marki Holika Holika o działaniu nawilżającym i odżywczym. Doskonale pielęgnuje skórę dłoni. Jego formuła zawiera między innymi jagody acai, jeżyny, żurawinę. Szybko się wchłania i nie pozostawia tłustego filmu na skórze.",
+            "ingredients": "agua purificada, glicerina, triglicérido caprílico / cáprico, hexanoato de cetiletilo, 1,2-hexanodiol, diestearato de poligliceril-3, aceite de semilla de macadamia, butilenglicol, alcohol se Tearyl, dimeticona, trehalosa, * extracto de hoja de albahaca, * extracto de mandarina , * extracto de limón, * extracto de naranja, estearato de glicerilo, tetraisoestearato de pentaeritritilo, olivaato de cetearilo, polideceno hidrogenado, poliacriloil dimetil taurato de sodio, olivaato de sorbitán, aceite vegetal, alantoína, arginina, carbómero, citrato de estearato de glicerilo, acetato de tocoferilo, acetato de glicerilo, acetato de etilhexido 10, EDTA disódico, fragancia",
+            "quantity": 12
+        },
+        {
+            "name": "Krem do rąk Basil Citrus",
+            "id_type": [
+                10,
+                9
+            ],
+            "img": "images/products/au-krem-basil-citrus.png",
+            "price": 29.90,
+            "date": "2022-12-17",
+            "shortDescription": "Krem do rąk Basil Citrus - Among Us 30ml",
+            "description": "Krem do rąk marki Holika Holika o działaniu nawilżającym i odżywczym. Doskonale pielęgnuje skórę dłoni. Jego formuła zawiera między innymi wyciąg z owoców cytrusowych, ekstrakt z bazylii. Szybko się wchłania i nie pozostawia tłustego filmu na skórze.",
+            "ingredients": "agua purificada, glicerina, triglicérido caprílico / cáprico, hexanoato de cetiletilo, 1,2-hexanodiol, diestearato de poligliceril-3, aceite de semilla de macadamia, butilenglicol, alcohol se Tearyl, dimeticona, trehalosa, * extracto de hoja de albahaca, * extracto de mandarina , * extracto de limón, * extracto de naranja, estearato de glicerilo, tetraisoestearato de pentaeritritilo, olivaato de cetearilo, polideceno hidrogenado, poliacriloil dimetil taurato de sodio, olivaato de sorbitán, aceite vegetal, alantoína, arginina, carbómero, citrato de estearato de glicerilo, acetato de tocoferilo, acetato de glicerilo, acetato de etilhexido 10, EDTA disódico, fragancia",
+            "quantity": 3
+        },
+        {
+            "name": "Krem do rąk Tropical",
+            "id_type": [
+                10,
+                9
+            ],
+            "img": "images/products/au-krem-tropical.png",
+            "price": 29.90,
+            "date": "2022-12-17",
+            "shortDescription": "Krem do rąk Tropical - Among Us 30ml",
+            "description": "Krem do rąk marki Holika Holika o działaniu nawilżającym i odżywczym. Doskonale pielęgnuje skórę dłoni. Jego formuła zawiera między innymi ekstrakt z ananasa, papai, liczi. Szybko się wchłania i nie pozostawia tłustego filmu na skórze.",
+            "ingredients": "agua purificada, glicerina, triglicérido caprílico / cáprico, hexanoato de cetiletilo, 1,2-hexanodiol, diestearato de poligliceril-3, aceite de semilla de macadamia, butilenglicol, alcohol se Tearyl, dimeticona, trehalosa, * extracto de hoja de albahaca, * extracto de mandarina , * extracto de limón, * extracto de naranja, estearato de glicerilo, tetraisoestearato de pentaeritritilo, olivaato de cetearilo, polideceno hidrogenado, poliacriloil dimetil taurato de sodio, olivaato de sorbitán, aceite vegetal, alantoína, arginina, carbómero, citrato de estearato de glicerilo, acetato de tocoferilo, acetato de glicerilo, acetato de etilhexido 10, EDTA disódico, fragancia",
+            "quantity": 6
+        },
+        {
+            "name": "Daily Fresh Pianka Olive",
+            "id_type": [
+                10,
+                2,
+                4
+            ],
+            "img": "images/products/au-pianka-olive.png",
+            "price": 39.90,
+            "date": "2022-12-17",
+            "shortDescription": "Daily Fresh Pianka Olive- Among Us 150ml",
+            "description": "Głównym składnikiem tej piany oczyszczającej jest ekstrakt z drożdży fermentowanych. Z kolei świetnie nawilża, wzmacniając ochronę skóry przed wszelkiego rodzaju zagrożeniami zewnętrznymi. Co więcej, ten podstawowy składnik jest zobowiązany do głębokiego odżywienia naskórka, szczególnie w połączeniu z oliwą z oliwek. W ten sposób ta świeża pianka bez wysiłku wnika w powierzchowne warstwy skóry, wzmacniając i oczyszczając przekrwione obszary. Wreszcie proces fermentacji zwiększa poziom przeciwutleniaczy w składnikach, oferując liczne korzyści dla skóry. Wśród nich jest wzrost produkcji kolagenu, a także elastyczność, mniej wyprysków trądzikowych lub poprawa tekstury.",
+            "ingredients": "Purified water, glycerin, palmitic acid, lauryc acid, stearic acid, potassium hydroxide, myristic acid, cocamidopropyl betaine, glyceryl stearate, piji-100 stearate, pi-8, polyquantium-7, polysolvate 20, hydroxyethylcellulose, sodium, hydroxyethylcellulose",
+            "quantity": 27
+        },
+        {
+            "name": "Daily Fresh Pianka Green Tea",
+            "id_type": [
+                10,
+                2,
+                4
+            ],
+            "img": "images/products/au-pianka-green-tea.png",
+            "price": 39.90,
+            "date": "2022-12-17",
+            "shortDescription": "Daily Fresh Pianka Green Tea- Among Us 150ml",
+            "description": "Głównym składnikiem tej piany oczyszczającej jest ekstrakt ze sfermentowanej zielonej herbaty. W szczególności ma to silne działanie przeciwzapalne, minimalizując obrzęki i odblokowując pory. Jednocześnie łagodzi suchą skórę skłonną do zaczerwienień i wspomaga zdrowszą aktywność komórek. Dzięki temu jest w stanie niwelować oznaki zmęczenia, spowalniać naturalny proces starzenia, a także maksymalizować barierę ochronną skóry. W tym samym stopniu pianka stabilizuje ukrwienie, głęboko odżywiając i nawilżając olejek do cery mieszanej. Co więcej, ten niezbędny środek pielęgnacyjny poprawia strukturę skóry, wzmacniając ją, dzięki czemu jest mniej wrażliwa w kontakcie z zewnętrznymi zagrożeniami.",
+            "ingredients": "Purified water, glycerin, palmitic acid, lauryc acid, stearic acid, potassium hydroxide, myristic acid, cocamidopropyl betaine, glyceryl stearate, piji-100 stearate, pi-8, polyquantium-7, polysolbate 20, hydroxyethylcellulose, green tea extract",
+            "quantity": 10
+        },
+        {
+            "name": "Daily Fresh Pianka Rice",
+            "id_type": [
+                10,
+                2,
+                4
+            ],
+            "img": "images/products/au-pianka-rice.png",
+            "price": 39.90,
+            "date": "2022-12-17",
+            "shortDescription": "Daily Fresh Pianka Rice - Among Us 150ml",
+            "description": "Głównym składnikiem tej piany oczyszczającej jest ekstrakt z ryżu. W szczególności bogate w aminokwasy, a także minerały, ich rdzeń wzmacnia barierę obronną przed wszelkiego rodzaju zagrożeniami zewnętrznymi. Ponadto ta opcja wygładza zmarszczki/drobne linie i przyspiesza procesy metaboliczne, nawilżając cerę kierowcy. W ten sposób naskórek z pewnością będzie wyglądał jak pierza, ponieważ ta pianka przyczynia się do spowolnienia początkowych oznak starzenia, oferując odświeżające, zmiękczające wykończenie. Dodatkowo regeneruje starzejącą się skórę, ponieważ jej właściwości odżywcze odnawiają komórki i hamują rozwój głębszych zmarszczek. Wreszcie, jest to świetna opcja dla skóry podrażnionej lub skłonnej do trądziku, równoważąca jej koloryt i teksturę.",
+            "ingredients": "purified water, glycerin, palmitic acid, lauryc acid, stearic acid, potassium hydroxide, myristic acid, cocamidopropyl betaine, glyceryl stearate, piji-100 stearate, pi-8, polyquarterium-7, polysolvate 20, hydroxyethylcellulide, sodium, hydroxyethylcellulose",
+            "quantity": 17
+        },
+        {
+            "name": "Hyper Curling Maskara",
+            "id_type": [
+                10,
+                9
+            ],
+            "img": "images/products/au-maskara-curling.png",
+            "price": 76.00,
+            "date": "2022-12-17",
+            "shortDescription": "Hyper Curling Maskara 2w1 - Among Us 9ml",
+            "description": "Pomaga w błyskawicznym utrwaleniu rzęs, zapewniając idealne podkręcenie i długotrwały efekt. Aplikator przypominający szczoteczkę do zębów pomaga podkreślić i zagęścić rzęsy. Formuła Swim Proof zapobiega rozmazywaniu i charakteryzuje się wysoką odpornością na wodę, zapewniając delikatny i czysty wygląd rzęs. Szczoteczka typu V-cutting zapewnia mocny efekt utrwalenia, a formuła rozszerzonych włókien mocno rozciągnie rzęsy.",
+            "ingredients": "Isododecane, trimethylsiloxysilicate, cerecine, bead wax, microcrystalline wax, talc, polypropylsilsesquioxane, dysteadaImmonium hexolite, dextrin palmitate/ethylhexanoate, hydrogenated polyisobutene, propylene carbonate, cellulose, rayon, triethoxycaprylsilane, ethylhexylglycerin, silica, biotin, biotone, biothythia, ethanol, pearl, tocopheno-aminate, silicate,etc",
+            "quantity": 62
+        },
+        {
+            "name": "Define Volume Maskara",
+            "id_type": [
+                10,
+                9
+            ],
+            "img": "images/products/au-maskara-volume.png",
+            "price": 76.00,
+            "date": "2022-12-17",
+            "shortDescription": "Define Volume Maskara 2w1 - Among Us 9ml",
+            "description": "Pomaga w błyskawicznym utrwaleniu rzęs, zapewniając idealne podkręcenie i długotrwały efekt. Aplikator przypominający szczoteczkę do zębów pomaga podkreślić i zagęścić rzęsy. Formuła Swim Proof zapobiega rozmazywaniu i charakteryzuje się wysoką odpornością na wodę, zapewniając delikatny i czysty wygląd rzęs. Pędzel w kształcie zygzaka zapewnia rzęsom odważną objętość dzięki zawartości pudru zwiększającego objętość.",
+            "ingredients": "Isododecane, trimethylsiloxysilicate, cerecine, bead wax, microcrystalline wax, talc, polypropylsilsesquioxane, dysteadaImmonium hexolite, dextrin palmitate/ethylhexanoate, hydrogenated polyisobutene, propylene carbonate, cellulose, rayon, triethoxycaprylsilane, ethylhexylglycerin, silica, biotin, biotone, biothythia, ethanol, pearl, tocopheno-aminate, silicate,etc",
+            "quantity": 42
+        },
+        {
+            "name": "Long Extension Maskara",
+            "id_type": [
+                10,
+                9
+            ],
+            "img": "images/products/au-maskara-extension.png",
+            "price": 76.00,
+            "date": "2022-12-17",
+            "shortDescription": "Long Extension Maskara 2w1 - Among Us 9ml",
+            "description": "Pomaga w błyskawicznym utrwaleniu rzęs, zapewniając idealne podkręcenie i długotrwały efekt. Aplikator przypominający szczoteczkę do zębów pomaga podkreślić i zagęścić rzęsy. Formuła Swim Proof zapobiega rozmazywaniu i charakteryzuje się wysoką odpornością na wodę, zapewniając delikatny i czysty wygląd rzęs. Zawiera błonnik, który tworzy długie, ale naturalne rzęsy.",
+            "ingredients": "sododecane, trimethylsiloxysilicate, cerecine, bead wax, microcrystalline wax, talc, polypropylsilsesquioxane, dysteadaImmonium hexolite, dextrin palmitate/ethylhexanoate, hydrogenated polyisobutene, propylene carbonate, cellulose, rayon, triethoxycaprylsilane, ethylhexylglycerin, silica, biotin, biotone, biothythia, ethanol, pearl, tocopheno-aminate, silicate,etc",
+            "quantity": 38
+        },
+        {
+            "name": "Maska Rice",
+            "id_type": [
+                5,
+                6
+            ],
+            "img": "images/products/maska-rice.png",
+            "price": 11.00,
+            "date": "2018-05-04",
+            "shortDescription": "Maska do twarzy Rice - Pure Essence",
+            "description": "Maseczka do twarzy w formie bawełnianego płatu. Produkt zawiera ekstrakt z ryżu. Maska działa wygładzająco i rozświetlająco na skórę.",
+            "ingredients": "Water, Dipropylene Glycol , Glycerin, Polyglyceryl-10 Laurate, Butylene Glycol, Centella Asiatica Extract , Paeonia Suffruticosa Root Extract , 1,2-Hexanediol, Hydroxyethylcellulose, Acrylates/C10-30 Alkyl Acrylate Crosspolymer , Oryza Sativa (Rice) Extract, Chamomilla Recutita (Matricaria) Flower Extract, Arginine, Glyceryl Caprylate, Ethylhexylglycerin, Glyceryl Acrylate/Acrylic Acid Copolymer , Glycine Max (Soybean) Seed Extract , Propylene Glycol , PVM/MA Copolymer , Citrus Sinensis Peel Oil Expressed , Viola Tricolor Extract, Lavandula Angustifolia (Lavender) Flower Extract, Centaurea Cyanus Flower Extract, Pogostemon Cablin Oil, Avandula angustifolia (Lavender) Oil, Disodium EDTA",
+            "quantity": 15
+        },
+        {
+            "name": "Maska Mugwort",
+            "id_type": [
+                5,
+                6
+            ],
+            "img": "images/products/maska-mugwort.png",
+            "price": 11.00,
+            "date": "2018-05-04",
+            "shortDescription": "Maska do twarzy Mugwort - Pure Essence",
+            "description": "Maseczka do twarzy na bawełnianej płachcie. W jej składzie znaleźć można ekstrakt z bylicy pospolitej - tonizuje i działa przeciwzapalnie. Wykazuje właściwości łagodzące podrażnienia, skutecznie odżywia. Pozostawia cerę nawilżoną i ukojoną. Dedykowana dla każdego typu cery, również dla skóry wrażliwej i wymagającej.",
+            "ingredients": "WATER, GLYCERIN, DIPROPYLENE GLYCOL, BUTYLENE GLYCOL, 1,2-HEXANEDIOL, BETAINE, PANTHENOL, ALLANTOIN, ARTEMISIA PRINCEPS LEAF EXTRACT, SODIUM HYALURONATE, ARGININE, PPG-13-DECYLTETRADECETH-24, CARBOMER, XANTHAN GUM, ETHYLHEXYLGLYCERIN, DISODIUM EDTA, SALVIA OFFICINALIS (SAGE) OIL, SALVIA SCLAREA (CLARY) OIL, JUNIPERUS COMMUNIS FRUIT OIL, MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL, PELARGONIUM GRAVEOLENS FLOWER OIL, BOSWELLIA CARTERII OIL",
+            "quantity": 15
+        },
+        {
+            "name": "Maska Damask Rose",
+            "id_type": [
+                5,
+                6
+            ],
+            "img": "images/products/maska-damask-rose.png",
+            "price": 11.00,
+            "date": "2018-05-04",
+            "shortDescription": "Maska do twarzy Damask Rose - Pure Essence",
+            "description": "Maseczka do twarzy w formie bawełnianego płatu. Produkt zawiera ekstrakt z róży damasceńskiej. Maska działa nawilżająco i rozjaśniająco na skórę.",
+            "ingredients": "Water, Glycerin, Dipropylene Glycol , Betaine, Polyglyceryl-10 Laurate, Butylene Glycol, Centella Asiatica Extract, Paeonia Suffruticosa Root Extract, 1,2-Hexanediol, Allantoin , Panthenol , Rosa Damascena Extract, Chamomilla Recutita (Matricaria) Flower Extract, Arginine, Carbomer, Glyceryl Caprylate, Xanthan Gum, Ethylhexylglycerin, Punica Granatum Fruit Extract , Pelaronium Graveolens Flower Oil, Viola Tricolor Extract, Lavandula Angustifolia (Lavender) Flower Extract, Centaurea Cyanus Flower Extract, Disodium EDTA",
+            "quantity": 15
+        },
+        {
+            "name": "Maska Pearl",
+            "id_type": [
+                5,
+                6
+            ],
+            "img": "images/products/maska-pearl.png",
+            "price": 11.00,
+            "date": "2018-05-04",
+            "shortDescription": "Maska do twarzy Pearl - Pure Essence",
+            "description": "Maseczka do twarzy w formie bawełnianego płatu. Produkt zawiera ekstrakt z pereł. Maska działa rozjaśniająco i wybielająco na skórę.",
+            "ingredients": "Water, Dipropylene Glycol , Niacinamide , Glycerin, Polyglyceryl-10 Laurate, Butylene Glycol, Paeonia Suffruticosa Root Extract , Centella Asiatica Extract , 1,2-Hexanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer , Pearl Extract, Hydroxyethylcellulose, Chamomilla Recutita (Matricaria) Flower Extract, Arginine, Glyceryl Caprylate, Ethylhexylglycerin, Glyceryl Acrylate/Acrylic Acid Copolymer , Honey Extract, Sodium Hyaluronate, PVM/MA Copolymer , Propylene Glycol , Citrus Sinensis Peel Oil Expressed, Lavandula Angustifolia (Lavender) Flower Extract, Viola Tricolor Extract, Centaurea Cyanus Flower Extract, Citrus Aurantium Dulcis (Orange) Peel Oil , Pogostemon Cablin Oil, Disodium EDTA",
+            "quantity": 15
+        },
+        {
+            "name": "Maska Acai Berry",
+            "id_type": [
+                5,
+                6
+            ],
+            "img": "images/products/maska-acai-berry.png",
+            "price": 11.00,
+            "date": "2018-05-04",
+            "shortDescription": "Maska do twarzy Acai Berry - Pure Essence",
+            "description": "Maseczka do twarzy w formie bawełnianego płatu. Produkt zawiera ekstrakt z jagód acai. Maska działa odżywczo, rewitalizująco i przeciwzmarszczkowo.",
+            "ingredients": "Water, Dipropylene Glycol , Glycerin, Polyglyceryl-10 Laurate , Butylene Glycol, Centella Asiatica Extract , Paeonia Suffruticosa Root Extract , 1,2-Hexanediol, Hydroxyethylcellulose, Chamomilla Recutita (Matricaria) Flower Extract, Euterpe Oleracea Fruit Extract, Glyceryl Caprylate, Arginine, Carbomer, Ethylhexylglycerin, Xanthan Gum , Allantoin , Nelumbo Nucifera Flower Extract, Sodium Hyaluronate, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Citrus Aurantium Dulcis (Orange) Peel Oil , Viola Tricolor Extract, Lavandula Angustifolia (Lavender) Flower Extract, Lavandula Angustifolia (Lavender) Oil, Centaurea Cyanus Flower Extract, Eucalyptus Globulus Leaf Oil, Disodium EDTA",
+            "quantity": 35
+        },
+        {
+            "name": "Maska Green Tea",
+            "id_type": [
+                5,
+                6
+            ],
+            "img": "images/products/maska-green-tea.png",
+            "price": 11.00,
+            "date": "2018-05-04",
+            "shortDescription": "Maska do twarzy Green Tea - Pure Essence",
+            "description": "Maseczka do twarzy w formie bawełnianego płatu. Produkt zawiera ekstrakt z zielonej herbaty. Maska działa intensywnie nawilżająco na skórę.",
+            "ingredients": "Water, Glycerin, Dipropylene Glycol , Betaine, Polyglyceryl-10 Laurate, Butylene Glycol, Centella Asiatica Extract, Paeonia Suffruticosa Root Extract, 1,2-Hexanediol, Allantoin , Panthenol , Chamomilla Recutita (Matricaria) Flower Extract, Camellia Sinensis Leaf Extract , Arginine, Carbomer, Glyceryl Caprylate, Xanthan Gum, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Peel Oil , Artemisia Vulgaris Extract, Viola Tricolor Extract, Lavandula Angustifolia (Lavender) Flower Extract, Centaurea Cyanus Flower Extract, Madecassoside, Disodium EDTA",
+            "quantity": 27
+        },
+        {
+            "name": "Maska Lemon",
+            "id_type": [
+                5,
+                6
+            ],
+            "img": "images/products/maska-lemon.png",
+            "price": 11.00,
+            "date": "2018-05-04",
+            "shortDescription": "Maska do twarzy Lemon - Pure Essence",
+            "description": "Maseczka do twarzy w formie bawełnianego płatu. Produkt zawiera ekstrakt z cytryny. Maska działa oczyszczająco i rozjaśniająco na skórę.",
+            "ingredients": "Water, Glycerin, Dipropylene Glycol , Betaine, Polyglyceryl-10 Laurate, Butylene Glycol, Centella Asiatica Extract, Paeonia Suffruticosa Root Extract, 1,2-Hexanediol, Allantoin , Panthenol , Citrus Limon (Lemon) Fruit Extract, Chamomilla Recutita (Matricaria) Flower Extract, Arginine, Carbomer, Glyceryl Caprylate, Xanthan Gum, Ethylhexylglycerin, Citrus Aurantium Dulcis (Orange) Oil, Pyrus Malus (Apple) Fruit Extract , Carica Papaya (Papaya) Leaf Extract, Viola Tricolor Extract, Lavandula Angustifolia (Lavender) Flower Extract, Centaurea Cyanus Flower Extract, Disodium EDTA",
+            "quantity": 13
+        },
+        {
+            "name": "Maska Shea Butter",
+            "id_type": [
+                5,
+                6
+            ],
+            "img": "images/products/maska-shea-butter.png",
+            "price": 11.00,
+            "date": "2018-05-04",
+            "shortDescription": "Maska do twarzy Shea Butter - Pure Essence",
+            "description": "Maseczka do twarzy w formie bawełnianego płatu. Produkt zawiera masło shea. Maska działa odżywczo i nawilżająco na skórę.",
+            "ingredients": "Water, Dipropylene Glycol , Glycerin, Polyglyceryl-10 Laurate , Butylene Glycol, Centella Asiatica Extract , Paeonia Suffruticosa Root Extract , 1,2-Hexanediol, Hydroxyethylcellulose, Chamomilla Recutita (Matricaria) Flower Extract, Glyceryl Caprylate, Arginine, Carbomer, Ethylhexylglycerin, Xanthan Gum , Allantoin , Sodium Hyaluronate, Viola Tricolor Extract, Lavandula Angustifolia (Lavender) Flower Extract, Citrus Aurantium Dulcis (Orange) Peel Oil , Centaurea Cyanus Flower Extract, Citrus Paradisi (Grapefruit) Peel Oil , Lavandula Angustifolia (Lavender) Oil, Butyrospermum Parkii (Shea) Butter, Oryza Sativa (Rice) Bran Oil , Boswellia Carterii Oil , Pelargonium Graveolens Flower Oil, Vetiveria Zizanoides Root Oil, Disodium EDTA",
+            "quantity": 17
+        },
+        {
+            "name": "Maska Cucumber",
+            "id_type": [
+                5,
+                6
+            ],
+            "img": "images/products/maska-cucumber.png",
+            "price": 11.00,
+            "date": "2018-05-04",
+            "shortDescription": "Maska do twarzy Cucumber - Pure Essence",
+            "description": "Maseczka do twarzy w formie bawełnianego płatu. Produkt zawiera ekstrakt z ogórka. Maska działa intensywnie nawilżająco na skórę.",
+            "ingredients": "Water, Glycerin, Dipropylene Glycol , Betaine, Polyglyceryl-10 Laurate, Butylene Glycol, Centella Asiatica Extract, Paeonia Suffruticosa Root Extract, 1,2-Hexanediol, Allantoin , Panthenol , Chamomilla Recutita (Matricaria) Flower Extract, Cucumis Sativus (Cucumber) Fruit Extract , Arginine, Carbomer, Glyceryl Caprylate, Xanthan Gum, Ethylhexylglycerin, Aloe Barbadensis Leaf Extract, Aniba Rosaeodora (Rosewood) Wood Oil , Viola Tricolor Extract, Lavandula Angustifolia (Lavender) Flower Extract, Centaurea Cyanus Flower Extract, Disodium EDTA",
+            "quantity": 19
+        },
+        {
+            "name": "Maska Avocado",
+            "id_type": [
+                5,
+                6
+            ],
+            "img": "images/products/maska-avocado.png",
+            "price": 11.00,
+            "date": "2018-05-04",
+            "shortDescription": "Maska do twarzy Avocado - Pure Essence",
+            "description": "Maseczka do twarzy w formie bawełnianego płatu. Produkt zawiera ekstrakt z avocado. Maska działa przeciwzmarszczkowo i poprawia elastyczność skóry.",
+            "ingredients": "Water, Dipropylene Glycol , Glycerin, Polyglyceryl-10 Laurate , Butylene Glycol, Centella Asiatica Extract , Paeonia Suffruticosa Root Extract , 1,2-Hexanediol, Hydroxyethylcellulose, Chamomilla Recutita (Matricaria) Flower Extract, Persea Gratissima (Avocado) Fruit Extract, Glyceryl Caprylate, Arginine, Carbomer, Adenosine, Ethylhexylglycerin, Xanthan Gum , Allantoin , Milk Protein Extract, Sodium Hyaluronate, Citrus Aurantium Dulcis (Orange) Peel Oil , Olea Europaea (Olive) Fruit Oil, Viola Tricolor Extract, Lavandula Angustifolia (Lavender) Flower Extract, Centaurea Cyanus Flower Extract, Avandula angustifolia (Lavender) Oil, Ocimum Basilicum (Basil) Oil, Pelargonium Graveolens Flower Oil, Disodium EDTA",
+            "quantity": 21
+        },
+        {
+            "name": "Maska Strawberry",
+            "id_type": [
+                5,
+                6
+            ],
+            "img": "images/products/maska-strawberry.png",
+            "price": 11.00,
+            "date": "2018-05-04",
+            "shortDescription": "Maska do twarzy Strawberry - Pure Essence",
+            "description": "Maseczka do twarzy w formie bawełnianego płatu. Produkt zawiera ekstrakt z truskawek. Maska działa intensywnie nawilżająco na skórę.",
+            "ingredients": "Water, Dipropylene Glycol , Glycerin, Polyglyceryl-10 Laurate, Butylene Glycol, Centella Asiatica Extract , Paeonia Suffruticosa Root Extract , 1,2-Hexanediol, Hydroxyethylcellulose, Acrylates/C10-30 Alkyl Acrylate Crosspolymer , Fragaria Chiloensis (Strawberry) Fruit Extract , Chamomilla Recutita (Matricaria) Flower Extract, Arginine, Glyceryl Caprylate, Ethylhexylglycerin, Glyceryl Acrylate/Acrylic Acid Copolymer , Citrus Junos Fruit Extract, Propylene Glycol , PVM/MA Copolymer , Citrus Aurantium Dulcis (Orange) Peel Oil , Viola Tricolor Extract, Lavandula Angustifolia (Lavender) Flower Extract, Centaurea Cyanus Flower Extract, Citrus Tangerina (Tangerine) Peel Oil , Litsea Cubeba Fruit Oil, Myristica Fragrans (Nutmeg) Kernel Oil , Disodium EDTA",
+            "quantity": 12
+        },
+        {
+            "name": "Maska Charcoal",
+            "id_type": [
+                5,
+                6
+            ],
+            "img": "images/products/maska-charcoal.png",
+            "price": 11.00,
+            "date": "2018-05-04",
+            "shortDescription": "Maska do twarzy Charcoal - Pure Essence",
+            "description": "Maseczka do twarzy w formie bawełnianej płachty. Produkt jest nasycony ekstraktem z węgla. Sprawdzi się w pielęgnacji cery tłustej i mieszanej. Węgiel wpływa na usunięcie nadmiaru sebum ze skóry.",
+            "ingredients": "Water, Dipropylene Glycol, Glycerin, Betaine, Polyglyceryl-10 Laurate, Butylene Glycol, Paeonia Suffruticosa Root Extract, Centella Asiatica Extract, 1,2-Hexanediol, Carbomer, Arginine, Chamomilla Recutita (Matricaria) Flower Extract, Panthenol, Glyceryl Caprylate, Xanthan Gum, Ethylhexylglycerin, Allantoin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Pueraria Lobata Root Extract, Ulmus Davidiana Root Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Pinus Palustris Leaf Extract, Sodium Hyaluronate, Charcoal Powder, Disodium EDTA",
+            "quantity": 9
+        },
+        {
+            "name": "Maska Honey Acerola",
+            "id_type": [
+                5,
+                8
+            ],
+            "img": "images/products/honey-acerola.png",
+            "price": 99.90,
+            "date": "2019-03-27",
+            "shortDescription": "Honey Sleeping Pack Całonocna Maseczka Acerola 90ml",
+            "description": "Maseczka zawiera miód i wyciąg z owoców z Aceroli. Produkt odżywia, nawilża i ujędrnia skórę. Maseczka przeznaczona do skóry dojrzałej i pozbawionej jędrności. Produkt redukuje pierwsze oznaki starzenia, działa przeciwzmarszczkowo.",
+            "ingredients": "Water, Disodium EDTA, Honey Extract, Malpighia Glabra (Acerola) Fruit Extract, Glycerin, Methylparaben, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dipotassium Glycyrrhizate , Dimethicone, Arginine, Glycereth-26, Phenoxyethanol, Ethanol, PEG-2M, PEG-90M , My Asia Beauty, Hydrogenated Lecithin, Sucrose Distearate, Dipropylene Glycol, Portulaca Oleracea Extract, Caramel, CI 19140, CI 17200, Fragrance",
+            "quantity": 28
+        },
+        {
+            "name": "Maska Honey Canola",
+            "id_type": [
+                5,
+                8
+            ],
+            "img": "images/products/honey-canola.png",
+            "price": 99.90,
+            "date": "2019-03-27",
+            "shortDescription": "Honey Sleeping Pack Całonocna Maseczka Canola 90ml",
+            "description": "Maseczka zawiera miód, olej Canola i ekstrakt z portulaki pospolitej. Produkt przeznaczony do skóry suchej, zmęczonej i szarej. Maseczka redukuje oznaki starzenia, ujędrnia i uelastycznia skórę. Produkt dogłębnie nawilża skórę i utrzymuje odpowiedni poziom nawodnienia.",
+            "ingredients": "Water, Disodium EDTA, Honey Extract, Brassica Campestris (Rapeseed) Extract, Glycerin, Methylparaben, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, My Asia Beauty, Dipotassium Glycyrrhizate, Dimethicone, Arginine, Glycereth-26, Phenoxyethanol, Ethanol, PEG-2M, PEG-90M, Hydrogenated Lecithin, Sucrose Distearate, Dipropylene Glycol, Portulaca Oleracea Extract, CI 15985 , CI 19140 , Fragrance",
+            "quantity": 31
+        },
+        {
+            "name": "Maska Honey Blueberry",
+            "id_type": [
+                5,
+                8
+            ],
+            "img": "images/products/honey-blueberry.png",
+            "price": 99.90,
+            "date": "2019-03-27",
+            "shortDescription": "Honey Sleeping Pack Całonocna Maseczka Blueberry 90ml",
+            "description": "Maseczka zawiera miód i wyciąg z czarnej jagody. Produkt przeznaczony do skóry tłustej, z rozszerzonymi porami i niedoskonałościami. Maseczka działa kojąco i łagodząco na skórę, przyspiesza gojenie zmian trądzikowych. Produkt zmniejsza widoczność porów, wygładza i zmiękcza skórę.",
+            "ingredients": "Woda, gliceryna, dimetikon, glikol butylenowy, 1,2-heksanodiol, gliceryna-26, ekstrakt z miodu, ekstrakt z owoców Vaccinium Angustifolium (borówka), arginina, uwodorniony izostearynian oleju rycynowego, karbomer, uwodorniona lecytyna, akrylany/C10-30 alkiloakrylanowy polimer krzyżowy , PEG-2M, distearynian sacharozy, glicyryzynian dipotasowy, ekstrakt Portulaca Oleracea, poliakrylan sodu, EDTA disodowy, karmel, CI 15985, CI 17200, etyloheksylogliceryna, zapach",
+            "quantity": 12
+        },
+        {
+            "name": "Pianka Rice",
+            "id_type": [
+                2,
+                4
+            ],
+            "img": "images/products/pianka-rice.png",
+            "price": 34.90,
+            "date": "2021-06-15",
+            "shortDescription": "Rice rozjaśniająca pianka do twarzy - Daily Fresh 150ml",
+            "description": "Holika Holika Rice Rozjaśniająca pianka do twarzy 150ml to produkt przeznaczony do oczyszczania skóry twarzy, zwłaszcza szarej i zmęczonej. Pianka usuwa zanieczyszczenia, oczyszcza pory i wygładza skórę. Produkt zawiera ekstrakt z ryżu o właściwościach przeciwzmarszczkowych, rozjaśniających i wygładzających.",
+            "ingredients": "Water, Stearic Acid, Glycerin, Lauric Acid, Potassium Hydroxide, Myristic Acid, Glyceryl Stearate, PEG-100 Stearate, Cocamidopropyl Betaine, PEG-8, Polyquaternium-7, Polysorbate 20, Hydroxyethylcellulose, Sodium Chloride, Rice Ferment Filtrate (Sake), Saponaria Officinalis Leaf Extract, Butylene Glycol, 1,2-Hexanediol, Phenoxyethanol, Fragrance",
+            "quantity": 3
+        },
+        {
+            "name": "Pianka Green Tea",
+            "id_type": [
+                2,
+                4
+            ],
+            "img": "images/products/pianka-green-tea.png",
+            "price": 34.90,
+            "date": "2021-06-15",
+            "shortDescription": "Green Tea oczyszczająca pianka do twarzy - Daily Fresh 150ml",
+            "description": "Holika Holika Green Tea Oczyszczająca pianka do twarzy 150ml to produkt przeznaczony do oczyszczania skóry twarzy, zwłaszcza tłustej i problemowej. Produkt oczyszcza pory, usuwa zanieczyszczenia i pozostawia skórę świeżą. Pianka zawiera ekstrakt z zielonej herbaty o właściwościach przeciwbakteryjnych.",
+            "ingredients": "WATER, STEARIC ACID, GLYCERIN, LAURIC ACID, POTASSIUM HYDROXIDE, MYRISTIC ACID, GLYCERYL STEARATE, PEG-100 STEARATE, COCAMIDOPROPYL BETAINE, PEG-8, POLYQUATERNIUM-7, POLYSORBATE 20, HYDROXYETHYLCELLULOSE, SODIUM CHLORIDE, CAMELLIA SINENSIS LEAF EXTRACT, SAPONARIA OFFICINALIS LEAF EXTRACT, BUTYLENE GLYCOL, CI 19140, CI 42090, PHENOXYETHANOL, FRAGRANCE",
+            "quantity": 9
+        },
+        {
+            "name": "Pianka Citron",
+            "id_type": [
+                2,
+                4
+            ],
+            "img": "images/products/pianka-citron.png",
+            "price": 34.90,
+            "date": "2021-06-15",
+            "shortDescription": "Citron złuszczająca pianka do twarzy - Daily Fresh 150ml",
+            "description": "Masz skórę mieszaną czy tłustą? Doświadcz wspaniałego uczucia miękkiej i świeżej skóry. Pianka oczyszczająca Holika Holika Daily Fresh Citron usuwa ze skóry zanieczyszczenia i makijaż. Dzięki ekstraktowi z cytryny, bogatemu w witaminę C i kwas jabłkowy, nie tylko usuwa martwe komórki naskórka, ale także wygładza drobne zmarszczki i przywraca skórze zdrowy koloryt i naturalny blask.",
+            "ingredients": "WATER, STEARIC ACID, GLYCERIN, LAURIC ACID, POTASSIUM HYDROXIDE, MYRISTIC ACID, GLYCERYL STEARATE, PEG-100 STEARATE, COCAMIDOPROPYL BETAINE, PEG-8, POLYQUATERNIUM-7, POLYSORBATE 20, HYDROXYETHYLCELLULOSE, SODIUM CHLORIDE, CITRUS JUNOS SEED OIL, SAPONARIA OFFICINALIS LEAF EXTRACT, BUTYLENE GLYCOL, TOCOPHERYL ACETATE, CI 19140, PHENOXYETHANOL, FRAGRANCE",
+            "quantity": 65
+        },
+        {
+            "name": "Pianka Olive",
+            "id_type": [
+                2,
+                4
+            ],
+            "img": "images/products/pianka-olive.png",
+            "price": 34.90,
+            "date": "2021-06-15",
+            "shortDescription": "Olive oczyszczająca pianka do twarzy - Daily Fresh 150ml",
+            "description": "Nadaje się do każdego rodzaju skóry, szczególnie do skóry suchej. Pianka jest skutecznym narzędziem do oczyszczania skóry, usuwa codzienne zabrudzenia, ślady makijażu. Nadaje skórze gładkość, miękkość i świeżość, nie zatyka porów. Produkt zawiera sfermentowany ekstrakt z oliwek, który działa odmładzająco, może zapobiegać powstawaniu zmarszczek i wygładzać już istniejące. Zawiera dużą ilość przeciwutleniaczy i witaminę E. Witamina ta pomaga organizmowi lepiej wchłaniać witaminy A, D, K i zapobiega blaknięciu komórek.",
+            "ingredients": "Water, Stearic Acid, Glycerin, Lauric Acid, Potassium Hydroxide, Myristic Acid, Glyceryl Stearate, PEG-100 Stearate, Cocamidopropyl Betaine, PEG-8, Polyquaternium-7, Polysorbate 20, Hydroxyethylcellulose, Sodium Chloride, Olea Europaea (Olive) Fruit Oil, Saponaria Officinalis Leaf Extract, Butylene Glycol, CI 19140, CI 15985, Phenoxyethanol, Fragrance",
+            "quantity": 70
+        },
+        {
+            "name": "Pianka Bamboo",
+            "id_type": [
+                2,
+                4
+            ],
+            "img": "images/products/pianka-bamboo.png",
+            "price": 39.90,
+            "date": "2021-06-15",
+            "shortDescription": "Bamboo łagodząca pianka do Twarzy - Daily Fresh 150ml",
+            "description": "Produkt przeznaczony do oczyszczania skóry twarzy. Pianka skutecznie usuwa zanieczyszczenia, oczyszcza pory i wygładza skórę. Produkt zawiera ekstrakt z bambusa, który posiada właściwości nawilżające, kojące oraz łagodzące. Wzmacnia ściany naczyń krwionośnych, zapobiegając ich pękaniu (zmniejsza tendencję do rozszerzonych naczynek).",
+            "ingredients": "Aqua, Stearic Acid, Glycerin, Lauric Acid, Potassium Hydroxide, Myristic Acid, Glyceryl Stearate, PEG-100 Stearate, Cocamidopropyl Betaine, PEG-8, Polyquaternium-7, Polysorbate 20, Hydroxyethylcellulose, Sodium Chloride, Bambusa Vulgaris Leaf/Stem Extract, Saponaria Officinalis Leaf Extract, Butylene Glycol, 1,2-Hexanediol, CI 19140, CI 42090, Phenoxyethanol, Parfum",
+            "quantity": 52
+        },
+        {
+            "name": "Tangerine 96%",
+            "id_type": [
+                1
+            ],
+            "img": "images/products/96-tangerine.png",
+            "price": 50.50,
+            "date": "2022-11-22",
+            "shortDescription": "Żel kojąco nawilżający z mandarynką 390ml",
+            "description": "Jak dbać o skórę poparzoną słońcem, przegrzaną lub wrażliwą? Nawilżająco-łagodzący żel z mandarynką Holika Holika Tangerine przyniesie Ci szybką ulgę podczas wahań temperatury, po opalaniu lub odwodnieniu. Kompleks mandarynkowy łagodzi suchą i wrażliwą skórę, a kompleks AHA usuwa martwe komórki naskórka. O regenerację dbają ekstrakty owocowe, aloes i trzcina cukrowa. Delikatny żel natychmiast się wchłania i pozostawia skórę miękką, gładką i chronioną.",
+            "ingredients": "ALOE BARBADENSIS LEAF JUICE,  NELUMBIUM SPECIOSUM FLOWER EXTRACT,  CENTELLA ASIATICA EXTRACT,  BAMBUSA VULGARIS EXTRACT,  CUCUMIS SATIVUS (CUCUMBER) FRUIT EXTRACT,  ZEA MAYS (CORN) LEAF EXTRACT,  BRASSICA OLERACEA CAPITATA (CABBAGE) LEAF EXTRACT,  CITRULLUS LANATUS (WATERMELON) FRUIT EXTRACT,  PEG-60 HYDROGENATED CASTOR OIL,  SODIUM POLYACRYLATE, CARBOMER,  TRIETHANOLAMINE,  FRAGRANCE,  PHENOXYETHANOL",
+            "quantity": 11
+        },
+        {
+            "name": "Watermelon 96%",
+            "id_type": [
+                1
+            ],
+            "img": "images/products/96-watermelon.png",
+            "price": 50.50,
+            "date": "2022-11-23",
+            "shortDescription": "Żel intensywnie nawilżający odświeżający cerę 390ml",
+            "description": "W upalne letnie dni na pewno chętnie zkorzystasz z odświeżanie, jednak nadal trzeba dbać również o nawilżenie. Z myślą o takich warunkach powstał właśnie żel do intensywnego nawodnienia i odświeżenia skóry Holika Holika Watermelon 96%. Jego specjalna formuła oparta na arbuzie zapewnia obfite nawilżenie i odżywienie skóry, na dodatek ją również uelastycznia i zmiękcza. Dzięki ochronie wrażliwej skóry przed zewnętrznymi podrażnieniami możesz cieszyć się długotrwałymi efektami i piękną cerą.",
+            "ingredients": "CITRULLUS LANATUS (WATERMELON) FRUIT EXTRACT, BUTYLENE GLYCOL, 1,2-HEXANEDIOL, GLYCERETH-26, WATER, ALLANTOIN, PANTHENOL, ALOE BARBADENSIS LEAF EXTRACT, DIOSCOREA JAPONICA ROOT EXTRACT, LAMINARIA JAPONICA EXTRACT, PORTULACA OLERACEA EXTRACT, GLYCERIN, PROPANEDIOL, ECTOIN, CENTELLA ASIATICA EXTRACT, FRAGARIA CHILOENSIS (STRAWBERRY) FRUIT EXTRACT, PUNICA GRANATUM FRUIT EXTRACT, PYRUS MALUS (APPLE) FRUIT EXTRACT, SCHIZANDRA CHINENSIS FRUIT EXTRACT, SOLANUM LYCOPERSICUM (TOMATO) FRUIT EXTRACT, SAUSSUREA INVOLUCRATA EXTRACT, CARBOMER, PEG-60 HYDROGENATED CASTOR OIL, TROMETHAMINE, DISODIUM EDTA, BUTETH-3, SODIUM BENZOTRIAZOLYL BUTYLPHENOL SULFONATE, TRIBUTYL CITRATE, ETHYLHEXYLGLYCERIN, CI 17200, CI 19140, PHENOXYETHANOL, FRAGRANCE",
+            "quantity": 14
+        },
+        {
+            "name": "Płatki pod oczy Avocado",
+            "id_type": [
+                1
+            ],
+            "img": "images/products/platki-avocado.png",
+            "price": 160.00,
+            "date": "2023-07-12",
+            "shortDescription": "Eyefessional Płatki pod oczy Antiwrinkle Avocado 60 sztuk",
+            "description": "Żelowe, delikatne płatki dedykowane wymagającej skórze pod oczami. Dokładnie nawilżają i odżywiają podrażnione i suche miejsca. W wersji Avocado, wykazują właściwości przeciwzmarszczkowe i ujędrniające. Hydrożelowe płatki najlepiej aplikować na 20-30 minut.",
+            "ingredients": "WATER, GLYCERIN, CHONDRUS CRISPUS EXTRACT, CERATONIA SILIQUA (CAROB) GUM, PERSEA GRATISSIMA (AVOCADO) FRUIT EXTRACT(10,000 ppm), 1,2-HEXANEDIOL, CELLULOSE GUM, PENTYLENE GLYCOL, POTASSIUM CHLORIDE, BUTYLENE GLYCOL, ALLANTOIN, XANTHAN GUM, ETHYLHEXYLGLYCERIN, ADENOSINE, GARDENIA FLORIDA FRUIT EXTRACT, SUCROSE, TITANIUM DIOXIDE, DISODIUM EDTA, DEXTRIN, CALCIUM LACTATE, POLYGLYCERYL-6 CAPRYLATE, POLYGLYCERYL-4 CAPRATE, LACTOBACILLUS FERMENT, SODIUM POLYACRYLOYLDIMETHYL TAURATE, COLLAGEN EXTRACT, HYDROLYZED ELASTIN, FRAGRANCE, BUTYROSPERMUM PARKII (SHEA) BUTTER, TOCOPHEROL, SODIUM HYALURONATE",
+            "quantity": 25
+        },
+        {
+            "name": "Płatki pod oczy Aloe",
+            "id_type": [
+                1
+            ],
+            "img": "images/products/platki-aloe.png",
+            "price": 160.00,
+            "date": "2023-07-12",
+            "shortDescription": "Eyefessional Płatki pod oczy Calming Aloe 60 sztuk",
+            "description": "Eyefressional Cool Calming Aloe Eye Patch zawierają sok z aloesu, który tworzy nawilżający film na powierzchni skóry oraz zmiękcza i regeneruje. Ma silne działanie lecznicze i kojące, poprawia elastyczność skóry, a także dostarcza witamin i minerałów, chroniąc skórę przed szkodliwym działaniem środowiska.",
+            "ingredients": "Water(Aqua), Glycerin, Chondrus Crispus Extract, Ceratonia Siliqua (Carob) Gum, Aloe Barbadensis Leaf Juice, 1,2-Hexanediol, Cellulose Gum, Pentylene Glycol, Potassium Chloride, Allantoin,Xanthan Gum, Ethylhexylglycerin, Sucrose, Disodium EDTA, Calcium Lactate, Collagen Extract, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Hydrolyzed Elastin, Chromium Oxide Greens (CI 77288), Butylene Glycol,Laminaria Japonica Extract,Ulmus Davidiana Root Extract, Aloe Barbadensis Leaf Extract, Viola Mandshurica Flower Extract, Dioscorea Japonica Root Extract, Tocopherol, Sodium Hyaluronate, Sodium Polyacryloyldimethyl Taurate, Sodium Citrate, Fragrance(Parfum), Citric Acid",
+            "quantity": 25
+        },
+        {
+            "name": "Płatki pod oczy Tangerine",
+            "id_type": [
+                1
+            ],
+            "img": "images/products/platki-tangerine.png",
+            "price": 160.00,
+            "date": "2023-07-12",
+            "shortDescription": "Eyefessional Płatki pod oczy Brightening Tangerine 60 sztuk",
+            "description": "Żelowe, delikatne płatki dedykowane wymagającej skórze pod oczami. Dokładnie nawilżają i odżywiają podrażnione i suche miejsca. W wersji Tangerine, wykazują właściwości rozświetlające i rozjaśniające. Hydrożelowe płatki najlepiej aplikować na 20-30 minut.",
+            "ingredients": "WATER, GLYCERIN, NIACINAMIDE, CHONDRUS CRISPUS EXTRACT, CITRUS TANGERINA (TANGERINE) EXTRACT(10,000 ppm), CERATONIA SILIQUA (CAROB) GUM, CELLULOSE GUM, 1,2-HEXANEDIOL, PENTYLENE GLYCOL SUCROSE POTASSIUM CHLORIDE, ALLANTOIN, DIPOTASSIUM GLYCYRRHIZATE, XANTHAN GUM, ETHYLHEXYLGLYCERIN, BUTYLENE GLYCOL, HYDROLYZED ELASTIN, GARDENIA FLORIDA FRUIT EXTRACT, DISODIUM EDTA, CALCIUM LACTATE, DEXTRIN, SODIUM POLYACRYLOYLDIMETHYL TAURATE, POLYGLYCERYL-6 CAPRYLATE, POLYGLYCERYL-4 CAPRATE HYDROLYZED COLLAGEN, FRAGRANCE, CITRUS LIMON (LEMON) FRUIT EXTRACT, MALPIGHIA GLABRA (ACEROLA) FRUIT EXTRACT, MYRCIARIA DUBIA FRUIT EXTRACT, HYALURONIC ACID, TOCOPHEROL, HYDROLYZED HYALURONIC ACID ASCORBYL GLUCOSIDE, SODIUM HYALURONATE.",
+            "quantity": 25
+        },
+        {
+            "name": "Płatki pod oczy Cica",
+            "id_type": [
+                1
+            ],
+            "img": "images/products/platki-cica.png",
+            "price": 160.00,
+            "date": "2023-07-12",
+            "shortDescription": "Eyefessional Płatki pod oczy Calming Cica 60 sztuk",
+            "description": "Żelowe, delikatne płatki dedykowane wymagającej skórze pod oczami. Dokładnie nawilżają i odżywiają podrażnione i suche miejsca. W wersji Calming Cica, wykazują właściwości łagodzące i kojące. Hydrożelowe płatki najlepiej aplikować na 20-30 minut.",
+            "ingredients": "Water (Aqua), Glycerin, Chondrus Crispus Extract, Ceratonia Siliqua (Carob) Gum, 1,2-Hexanediol, Cellulose Gum, Pentylene Glycol,Potassium Chloride, Allantoin, Xanthan Gum, Ethylhexylglycerin, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Sucrose, Disodium EDTA, Calcium Lactate, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Dipotassium Glycyrrhizate, Sodium Polyacryloyldimethyl Taurate, Butylene Glycol, Fragrance(Parfum), Caprylic/Capric Triglyceride, Hydrogenated Phosphatidylcholine, Hydrolyzed Elastin, Sucrose Stearate, Tocopherol, Cetearyl Alcohol, Sodium Hyaluronate, Collagen Extract, Madecassoside, Madecassic Acid, Asiaticoside, Asiatic Acid",
+            "quantity": 25
+        },
+        {
+            "name": "Maska After Hard Study",
+            "id_type": [
+                5,
+                7
+            ],
+            "img": "images/products/maska-after-study.png",
+            "price": 12.00,
+            "date": "2018-02-17",
+            "shortDescription": "Maska do twarzy - After Hard Study",
+            "description": "Maseczka do twarzy w formie bawełnianej płachty. Produkt z serii: After Mask Sheet. Maska zawiera ekstrakty: zielonej herbaty i olejku z drzewa herbacianego. Produkt posiada właściwości: łagodzące, oczyszczające, regenerujące i relaksujące.",
+            "ingredients": "Water, Glycerin, Alcohol, PEG-60 Hydrogenated Castor Oil, Phenoxyethanol, Carbomer, Triethanolamine, Melaleuca Alternifolia (Tea Tree) Extract, Camellia Sinensis Leaf Extract, Calendula Officinalis Flower Extract, Hamamelis Virginiana (Witch Hazel) LeafExtract, Allantoin, Disodium EDTA, Fragrance, Sodium Hyaluronate, Trehalose",
+            "quantity": 10
+        },
+        {
+            "name": "Maska After Trip",
+            "id_type": [
+                5,
+                7
+            ],
+            "img": "images/products/maska-after-trip.png",
+            "price": 12.00,
+            "date": "2018-02-17",
+            "shortDescription": "Maska do twarzy - After Trip",
+            "description": "Maseczka do twarzy w formie bawełnianej płachty. Produkt z serii: After Mask Sheet. Maska zawiera ekstrakty: pomidora, kokosu, pomarańczy. Produkt posiada właściwości: rozjaśniające, nawilżające, regenerujące i relaksujące.",
+            "ingredients": "Water, Glycerin, Alcohol, PEG-60 Hydrogenated Castor Oil, Phenoxyethanol, Carbomer, Triethanolamine, Solanum Lycopersicum (Tomato) FruitExtract, Actinidia Chinensis (Kiwi) Fruit Extract, Citrus Aurantium Dulcis (Orange) PeelExtract, Cocos Nucifera (Coconut) Fruit Extract, Allantoin, Disodium EDTA, Fragrance, Sodium Hyaluronate, Trehalose",
+            "quantity": 12
+        },
+        {
+            "name": "Maska After Working Out",
+            "id_type": [
+                5,
+                7
+            ],
+            "img": "images/products/maska-after-working-out.png",
+            "price": 12.00,
+            "date": "2018-02-17",
+            "shortDescription": "Maska do twarzy - After Working Out",
+            "description": "Maseczka do twarzy w formie bawełnianej płachty. Produkt z serii: After Mask Sheet. Maska zawiera ekstrakty: aloesu, miodu, ziemniaka i bamabusa. Produkt posiada właściwości: łagodzące, kojące, regenerujące i relaksujące.",
+            "ingredients": "Water, Glycerin, Alcohol, PEG-60 Hydrogenated Castor Oil, Phenoxyethanol, Carbomer, Triethanolamine, Aloe Barbadensis Leaf Extract, Solanum Tuberosum (Potato) Pulp Extract, Bambusa Vulgaris Extract, Honey Extract, Allantoin, Disodium EDTA, Fragrance, Sodium Hyaluronate, Trehalose",
+            "quantity": 13
+        },
+        {
+            "name": "Maska After Working Overtime",
+            "id_type": [
+                5,
+                7
+            ],
+            "img": "images/products/maska-after-working-overtime.png",
+            "price": 12.00,
+            "date": "2018-02-17",
+            "shortDescription": "Maska do twarzy - After Working Overtime",
+            "description": "Maseczka do twarzy w formie bawełnianej płachty. Produkt z serii: After Mask Sheet. Maska zawiera ekstrakty: mięty, rumianku, aceroli i czarnych jagód. Produkt posiada właściwości: odżywcze, rewitalizujące, regenerujące i relaksujące.",
+            "ingredients": "Water, Glycerin, Alcohol, PEG-60 Hydrogenated Castor Oil, Phenoxyethanol, Carbomer, Triethanolamine, Mentha Piperita (Peppermint) Leaf Extract, Chamomilla Recutita (Matricaria) FlowerExtract, Malpighia Emarginata (Acerola) Fruit Extract, Vaccinium Angustifolium (Blueberry) FruitExtract, Allantoin, Disodium EDTA, Fragrance, Sodium Hyaluronate, Trehalose",
+            "quantity": 11
+        },
+        {
+            "name": "Maska After Quarantine",
+            "id_type": [
+                5,
+                7
+            ],
+            "img": "images/products/maska-after-quarantine.png",
+            "price": 12.00,
+            "date": "2018-02-17",
+            "shortDescription": "Maska do twarzy - After Quarantine",
+            "description": "Maseczka do twarzy w formie bawełnianej płachty. Produkt z serii: After Mask Sheet. Doskonale uzupełnia codzienną pielęgnację, pozostawiając skórę nawilżoną i odświeżoną. Maseczka idealnie sprawdzi się w przypadku posiadania skóry wrażliwej.",
+            "ingredients": "Water, Glycerin, Alcohol Denat,, 1,2-Hexanediol, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Panthenol, Palmitoyl Pentapeptide-4, Chamaecyparis Obtusa Water, Aloe Barbadensis Leaf Juice, Glycyrrhiza Glabra (Licorice) Root Extract, Anthemis Nobilis Flower Water, Centella Asiatica Extract, Trehalose, Rosmarinus Officinalis (Rosemary) Leaf Oll, Polyglyceryl-10 Laurate, Carbomer, Tromethamine, Allantoin, Disodium Edta, Glyceryl Caprylate, Ethylhexylglycerin",
+            "quantity": 9
+        },
+        {
+            "name": "Maska After Drinking",
+            "id_type": [
+                5,
+                7
+            ],
+            "img": "images/products/maska-after-drinking.png",
+            "price": 12.00,
+            "date": "2018-02-17",
+            "shortDescription": "Maska do twarzy - After Drinking",
+            "description": "Maseczka do twarzy w formie bawełnianej płachty. Produkt z serii: After Mask Sheet. Maska zawiera ekstrakty: mięty, rumianku, aceroli i czarnych jagód. Produkt posiada właściwości: odświeżające, oczyszczające, regenerujące i relaksujące.",
+            "ingredients": "Water, Glycerin, Alcohol, PEG-60 Hydrogenated Castor Oil, Phenoxyethanol, Carbomer, Triethanolamine, Camellia Sinensis Leaf Extract, Rosa Canina Flower Extract, Brassica Oleracea Capitata (Cabbage)Leaf Extract, Hovenia Dulcis Fruit Extract, Allantoin, Disodium EDTA, Fragrance, Sodium Hyaluronate, Trehalose",
+            "quantity": 6
+        },
+        {
+            "name": "Maska After Sauna",
+            "id_type": [
+                5,
+                7
+            ],
+            "img": "images/products/maska-after-sauna.png",
+            "price": 12.00,
+            "date": "2018-02-17",
+            "shortDescription": "Maska do twarzy - After Sauna",
+            "description": "Maseczka do twarzy w formie bawełnianej płachty. Produkt z serii: After Mask Sheet. Maska zawiera ekstrakty: z mięty, kasztanów, ogórka oraz limonki. Produkt posiada właściwości: oczyszczające, odświeżające i zmniejszające pory.",
+            "ingredients": "Water, Glycerin, Alcohol, PEG-60 Hydrogenated Castor Oil, Phenoxyethanol, Carbomer, Triethanolamine, Mentha Rotundifolia Leaf Extract, Castanea Crenata (Chestnut) Shell Extract, Cucumis Sativus (Cucumber) Fruit Extract, Citrus Aurantifolia (Lime) Fruit Extract, Allantoin, Disodium EDTA, Fragrance, Sodium Hyaluronate, Trehalose",
+            "quantity": 21
+        },
+        {
+            "name": "Mydełko Red Clay Egg Soap",
+            "id_type": [
+                2,
+                3
+            ],
+            "img": "images/products/mydelko-red-clay.png",
+            "price": 49.00,
+            "date": "2021-05-25",
+            "shortDescription": "Mydełko do twarzy Red Clay Egg Soap",
+            "description": "Produkt przeznaczony do pielęgnacji i oczyszczania twarzy. Mydełko w formie 2 jajeczek w opakowaniu. Produkt oczyszcza skórę, zwęża pory, niweluje zaskórniki. Mydełko zawiera: proteiny, glinkę kaolin, lecytynę.",
+            "ingredients": "Sekken Soji, Loess, Glycerin, Vitis Vinifera (Grape) Seed Oil, Butyrospermum Parkii (Shea) Butter, Aloe Barbadensis Leaf Extract, Tocopherol, Fragrance",
+            "quantity": 17
+        },
+        {
+            "name": "Mydełko Green Tea Egg Soap",
+            "id_type": [
+                2,
+                3
+            ],
+            "img": "images/products/mydelko-green-tea.png",
+            "price": 49.00,
+            "date": "2021-05-25",
+            "shortDescription": "Mydełko do twarzy Egg Soap",
+            "description": "Produkt przeznaczony do pielęgnacji i oczyszczania twarzy. Mydełko w formie 2 jajeczek w opakowaniu, zawiera ekstrakt z zielonej herbaty. Produkt oczyszcza skórę, zwęża pory, niweluje zaskórniki. Mydełko przeznaczone do pielęgnacji cery tłustej i trądzikowej.",
+            "ingredients": "Myristic Acid, Stearic Acid, Triethanolamine, Lauric Acid, Sodium Lauryl Sulfate, Palmitic Acid, Glycerine, Purified Water, Sodium Hydroxide, Disodium Lauryl Sulfosuccinate, Perfume, Hydrolyzed Egg Protein (Eggs White), Camellia Sinensis Leaf (Green Tea) Extract, Triclosan, Titanium Dioxide, Tetrasodium EDTA (EDTA-4NA)",
+            "quantity": 16
+        },
+        {
+            "name": "Mydełko White Egg Soap",
+            "id_type": [
+                2,
+                3
+            ],
+            "img": "images/products/mydelko-.png",
+            "price": 49.00,
+            "date": "2021-05-25",
+            "shortDescription": "Mydełko do twarzy Egg Soap",
+            "description": "Produkt przeznaczony do pielęgnacji i oczyszczania twarzy. Mydełko w formie 2 jajeczek w opakowaniu. Odpowiednie dla każdego rodzaju skóry, białe mydło pomaga odblokować pory z brudu i bakterii, poprawiając ich wygląd i poprawiając wygląd skóry.",
+            "ingredients": "Myristic Acid, Stearic Acid, Triethanolamine, Lauric Acid, Palmitic Acid, Glycerine, Purified Water, Sodium Hydroxide, Disodium Lauryl Sulfosuccinate, Perfume, Hydrolyzed Egg Protein (Eggs White), Triclosan, Titanium Dioxide, Tetrasodium EDTA(EDTA-4NA)",
+            "quantity": 32
+        },
+        {
+            "name": "Mydełko Charcoal Egg Soap",
+            "id_type": [
+                2,
+                3
+            ],
+            "img": "images/products/mydelko-charcoal.png",
+            "price": 49.00,
+            "date": "2021-05-25",
+            "shortDescription": "Mydełko do twarzy Egg Soap",
+            "description": "Produkt głęboko oczyszcza skórę twarzy, odblokowując pory. Dzięki długotrwałemu stosowaniu może delikatnie rozjaśnić skórę, wyrównując koloryt. Produkt odpowiedni jest do skóry problematycznej, tłustej, mieszanej oraz trądzikowej z licznymi przebarwieniami. Działa zarówno jako mydło oczyszczające, jak i maseczka.",
+            "ingredients": "Sekken Soji, Charcoal Powder, Glycerin, Vitis Vinifera (Grape) Seed Oil, Butyrospermum Parkii (Shea) Butter, Aloe Barbadensis Leaf Extract, Tocopherol, Fragrance",
+            "quantity": 23
+        }
+    ]
+}
